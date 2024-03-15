@@ -7,20 +7,20 @@ export interface Message {
 
 const messages: Message[] = [
   {
-    fromName: 'Matt Chorsey',
-    subject: 'New event: Trip to Vegas',
+    fromName: 'Robyn Navarro',
+    subject: 'Trip to Milwaukee (allí me voy :D)',
     date: '9:32 AM',
     id: 0
   },
   {
     fromName: 'Lauren Ruthford',
     subject: 'Long time no chat',
-    date: '6:12 AM',
+    date: '6:12 PM',
     id: 1
   },
   {
-    fromName: 'Jordan Firth',
-    subject: 'Report Results',
+    fromName: 'Laura Espinoza',
+    subject: 'Ionic-React App test',
     date: '4:55 AM',
     id: 2
 
@@ -32,8 +32,8 @@ const messages: Message[] = [
     id: 3
   },
   {
-    fromName: 'Joanne Pollan',
-    subject: 'Updated invitation: Swim lessons',
+    fromName: 'Mariano de la Osaa',
+    subject: 'Otra prueba de cambio de asunto',
     date: 'Yesterday',
     id: 4
   },
